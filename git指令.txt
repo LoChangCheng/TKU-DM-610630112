@@ -1,3 +1,4 @@
+cd 資料夾
 git add . 掃描新增
-git commit 0922-1 註記推上去是0922-1
+git commit -m "0922-1" 註記推上去是0922-1
 git push 上傳
